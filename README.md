@@ -1,3 +1,11 @@
+#### Esta app foi meu primeiro contato com React e *JSon*.
+
+Agradeço a **Felipe Rocha** **https://github.com/felipemotarocha** 
+
+Por disponibilizar um ótimo video aula https://www.youtube.com/watch?v=ErjWNvP6mko&t=2s
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
