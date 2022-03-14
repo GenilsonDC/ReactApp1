@@ -3,9 +3,10 @@
         max-width: 500px;
         margin: 30px auto;
         overflow: auto;
-        min-height: 300px;
-        border: 2px solid rgb(163, 180, 180);
+        min-height: 100px;
+        border: 2px solid rgb(143, 140, 140);
         padding: 20px;
         border-radius: 10px;
+       
     }
   
