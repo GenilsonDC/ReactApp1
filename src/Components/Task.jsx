@@ -20,12 +20,13 @@ import "./Task.css";
          
          <div className="buttons-container">
 
-               <button className="button-info" onClick={handTaskInfoClick}>
-         <CgInfo /></button>
+            <button className="button-info" onClick={handTaskInfoClick}>
+                <CgInfo />
+            </button>
 
-              <button className="button-delete"
-         onClick={()=>handTaskDelet(task.id)}><CgClose />
-         </button>          
+            <button className="button-delete"
+                onClick={()=>handTaskDelet(task.id)}><CgClose />
+            </button>          
          
          </div>
          </div>
